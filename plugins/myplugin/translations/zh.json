@@ -1,0 +1,10 @@
+{
+    "test-setting": "测试设置布尔值英文",
+    "test-description": "这是一个布尔测试描述",
+    
+    "test-setting2": "测试设置字符串英文",
+    "test-description2": "这是一个字符串测试描述",
+    
+    "test-setting3": "测试设置回调英文",
+    "test-description3": "这是一个回调测试描述"
+}
