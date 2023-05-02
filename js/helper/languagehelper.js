@@ -5,21 +5,10 @@ const $$ = query => document.querySelectorAll(query);
 
 const locales = {
     ENGLISH: "en",
-    DUTCH: "nl",
-    FINNISH: "fi",
-    FRENCH: "fr",
-    GERMAN: "de",
-    GREEK: "el",
-    ITALIAN: "it",
-    POLISH: "pl",
-    PORTUGUESE: "pt",
-    RUSSIAN: "ru",
-    SPANISH: "es",
-    SWEDISH: "sv",
-    TURKISH: "tr"
+    CHINESE: "zh"
 }
 
-const defaultLocale = locales.ENGLISH;
+const defaultLocale = locales.CHINESE;
 
 let currentLocale = defaultLocale;
 let browserLocale = null;
